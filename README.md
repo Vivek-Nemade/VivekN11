@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-➥ Here is my Resume : <a href="https://drive.google.com/file/d/1ARXNXvaUyB2rc3K_clWgYfCLb_xX2U51/view?usp=sharing">**RESUME**</a>
+➥ Here is my Resume : <a href="https://drive.google.com/file/d/1X0PlkQEN6x-sQi4zY32O6FIQOt2F8Flv/view?usp=sharing">**RESUME**</a>
 - 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
